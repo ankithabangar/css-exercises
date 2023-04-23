@@ -1,0 +1,22 @@
+.odd-number{
+    color:black;
+    background-color: rgb(250, 120, 130, 0.9);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#Number-2{
+    font-size: 36px;
+    color: #0000ff;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.three{
+    font-size: 24px;
+}
+
+#Number-4{
+    font-size: 24px;
+    font-weight: bold;
+    background-color: hsl(120, 100%, 75%);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
