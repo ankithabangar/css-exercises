@@ -1,0 +1,14 @@
+.click{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+.click-me{
+    background-color: rgb(255, 255,0);
+    color: #000000;
+}
+
+.click, .click-me{
+    font-size: 28px;
+    font-family: helvetica, 'Times New Roman', sans-serif;
+}
